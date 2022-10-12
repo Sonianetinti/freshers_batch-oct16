@@ -1,2 +1,3 @@
 Hi,
 Welcome to Git Hub.
+Creating a git repository..
